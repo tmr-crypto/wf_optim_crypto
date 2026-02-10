@@ -81,7 +81,7 @@ The data generated here represents walk-forward optimization results across seve
 
 ## Prerequisites
 
-Follow the same procedure as specified in the `wf_optim_crypto_analysis` section [Prerequisite](https://github.com/tmr-crypto/wf_optim_crypto_analysis#prerequisite)
+Follow the same procedure as specified in the `wf_optim_crypto_analysis` section [Prerequisites](https://github.com/tmr-crypto/wf_optim_crypto_analysis#prerequisites)
 
 ## How to Reproduce Results
 
